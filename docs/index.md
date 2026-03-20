@@ -12,7 +12,7 @@ Bienvenue dans la documentation du projet "Machine that draws". Ce site a pour b
 [Notre projet sur Onshape](https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=77be9413e076a704dc64824f&eid=a597e80902563e66ad237642&elementType=ASSEMBLY){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=d723a24463a6b9e9ee416335&eid=9e71f7861cb6b29e7d4ea499&elementType=ASSEMBLY" frameborder="0"></iframe>
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=77be9413e076a704dc64824f&eid=a597e80902563e66ad237642&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 {: .warning }
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
