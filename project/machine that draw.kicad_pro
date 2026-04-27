@@ -660,7 +660,7 @@
       {
         "filename": "machine that draw.kicad_sch",
         "name": "machine that draw",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "3b9e7094-1f94-4de4-b8d1-4991774fa6dc"
       }
     ],
     "used_designators": "",
@@ -669,7 +669,7 @@
   "sheets": [
     [
       "3b9e7094-1f94-4de4-b8d1-4991774fa6dc",
-      "Root"
+      "machine that draw"
     ]
   ],
   "text_variables": {},
