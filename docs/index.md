@@ -9,10 +9,10 @@ permalink: /
 
 Bienvenue dans la documentation du projet "Machine that draws". Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-[Notre projet sur Onshape]((https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=54c82319ee3d9ecce02ef079&eid=a597e80902563e66ad237642&elementType=ASSEMBLY)){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/Makerspace-Amiens/template-project){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Notre projet sur Onshape]((https://cad.onshape.com/documents/8c814b0ab65beaae0eeaa526/w/d013e59062569ffd4bf796fa/e/a597e80902563e66ad237642)){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/MachineThatDraws-Groupe01.git){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=77be9413e076a704dc64824f&eid=a597e80902563e66ad237642&elementType=ASSEMBLY" frameborder="0"></iframe>
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=54c82319ee3d9ecce02ef079&eid=a597e80902563e66ad237642&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 {: .warning }
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
