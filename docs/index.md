@@ -14,9 +14,6 @@ Bienvenue dans la documentation du projet "Machine that draws". Ce site a pour b
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=8c814b0ab65beaae0eeaa526&wvm=v&wvmid=54c82319ee3d9ecce02ef079&eid=a597e80902563e66ad237642&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
-
 
 ## À propos du Projet
 
@@ -24,22 +21,11 @@ Ce projet s'inscrit dans notre parcours scolaire, nous sommes un groupe de 5 ét
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
-
 ![Poster projet](images/poster.jpg)
 ![Logo unilasalle](images/unilasalle amiens.png)
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
-
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/vidéo_présentation.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
