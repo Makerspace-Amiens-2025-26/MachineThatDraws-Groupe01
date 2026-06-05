@@ -6,7 +6,7 @@ title: Études et choix techniques
 
 # Études et choix techniques
 
-(commentaire) Ici vous retrouverez notre chemin de pensée sur le projet, les comparatifs entre les machines étudiées avec ce que l'on aime et ce qu'on aime pas afin d'arriver à la machine qu'on a créée . Citer les sources ( vidéos etc )
+Pour mettre en place une machine efficace et à l'image de notre groupe, nous avons beaucoup débattus sur les choix techniques que nous allions appliqués. Nous nous sommes inspirés de plusieurs projet déja existants, et de modéles de machines proposées.
 
 
 Différents types de machines existants :
@@ -52,3 +52,6 @@ Avantages :
 
 Inconvénients :
 - Trop complexe pour le temps impartis
+
+
+
