@@ -2,7 +2,6 @@
 layout: default
 title: Etapes de fabrication
 nav_order: 6
-has_children: true
 ---
 
 # Étapes de Fabrication
