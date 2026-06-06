@@ -13,7 +13,8 @@ Nous avons modélisé chaque pièce en tenant compte de nos contraintes : un tem
 
 {: .warning}
 >Notre premier défi a été de fixer l’ensemble de la structure sur un roulement se déplaçant sur le rail. Nous avons donc conçu une pièce supportant le reste de la structure, qui se positionne au-dessus et en dessous du rail.
-<iframe height="300" width="100%" src="image/pièce support rail.stl" frameborder="0"></iframe>
+
+<iframe title="Pièce Support Rail" width="100%" height="450" src="https://sketchfab.com/models/8db74d006a4c42c5b38193bf9ea58bb0/embed?autostart=1" frameborder="0" allowfullscreen allow="autoplay; fullscreen; xr-spatial-tracking"></iframe>
 
 
 {: .warning}
