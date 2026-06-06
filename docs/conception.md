@@ -13,7 +13,7 @@ Nous avons modélisé chaque pièce en tenant compte de nos contraintes : un tem
 
 {: .warning}
 >Notre premier défi a été de fixer l’ensemble de la structure sur un roulement se déplaçant sur le rail. Nous avons donc conçu une pièce supportant le reste de la structure, qui se positionne au-dessus et en dessous du rail.
-<iframe height="300" width="100%" src="" frameborder="0"></iframe>
+<iframe height="300" width="100%" src="image/pièce support rail.3mf" frameborder="0"></iframe>
 
 
 {: .warning}
