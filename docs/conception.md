@@ -144,12 +144,12 @@ Pourquoi I2C :
 
 ★ Le PCB :
 
-![Poster projet](images/pcb_face_bleue.png)
+![Poster projet](images/pcbfacebleue.png)
 
 Face avant :
 Le plan de masse en cuivre rouge couvre toute la carte, ce qui réduit les interférences et facilite le routage du GND. On distingue les empreintes des drivers, de l'ESP32, du régulateur et des connecteurs.
 
-![Poster projet](images/pcb_face_rouge.png)
+![Poster projet](images/pcbfacerouge.png)
 
 Face arrière :
 Les pistes rouges représentent les connexions sur la face avant. Le routage en deux couches séparées permet de faire se croiser des pistes sans risque de court-circuit.
