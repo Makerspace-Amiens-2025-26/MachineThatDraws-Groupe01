@@ -5,6 +5,23 @@ title: Accueil
 permalink: /
 ---
 
+<style>
+  /* Change la couleur mauve du menu par du bleu canard */
+  .nav-list-item.active > .nav-list-link {
+    color: #b31e00 !important;
+  }
+  /* Change la couleur mauve des boutons */
+  .btn-primary {
+    background-color: #b31e00 !important;
+    border-color: #b31e00 !important;
+  }
+  /* Change la couleur des liens cliquables */
+  a {
+    color: #b31e00 !important;
+  }
+</style>
+
+
 # Projet Machine that draws
 
 ---
