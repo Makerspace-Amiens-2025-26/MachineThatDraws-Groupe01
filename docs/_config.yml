@@ -6,7 +6,7 @@ description: Documentation du projet
 # Thème
 # remote_theme: Makerspace-Amiens/CraftTheDocs-V1.0
 
-theme: jekyll-theme-cayman
+theme: just_the_docs
 
 url: https://github.com/Makerspace-Amiens
 
