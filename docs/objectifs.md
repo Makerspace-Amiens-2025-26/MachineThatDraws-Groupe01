@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Introduction
 
-Pour ce projet, nous avons décidé de réaliser une machine qui dessine, fonctionnant sur deux axes X et Y. Il nous fallait donc finaliser au moins un axe pour le premier semestre.
+Dans le cadre de notre deuxième année de cycle ingénieur (FISE), nous avons conçu et réalisé la "MachineThatDraws", un plotter 2 axes capable de reproduire automatiquement n'importe quelle image. Ce projet nous a amenés à concevoir une machine complète, alliant mécanique, électronique et logiciel, avec pour objectif final d'obtenir un système autonome capable de dessiner avec précision sur deux axes X et Y.
 
 ## Contexte du Projet
 
@@ -23,7 +23,7 @@ Ce projet fut réalisé dans le cadre scolaire, avec quelques contraintes de mat
 
 # Existant
 
-Nous avons pu nous appuyer sur des projets déjà existants dans la base de données du makerspace, ainsi que sur les machines déjà réalisées par les anciens étudiants. Nous avons mixé nos idées avec celles inspirées de ce que nous avions à disposition et nous nous sommes adaptés au matériel fourni, ce qui nous a permis de mettre au point une machine unique.
+Nous avons pu nous appuyer sur des projets déjà existants dans la base de données du makerspace, ainsi que sur les machines déjà réalisées par les anciens étudiants. Nous avons mixé nos idées avec celles inspirées de ce que nous avions à disposition et nous nous sommes adaptés au matériel fourni, ce qui nous a permis de mettre au point une machine unique et originale.
 
 # Cahier des Charges
 
