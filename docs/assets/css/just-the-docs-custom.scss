@@ -1,0 +1,13 @@
+---
+---
+
+// Définition de ta nouvelle couleur principale
+$brand-color: #b31e00; 
+
+// On applique cette couleur aux éléments actifs du menu et aux boutons
+$nav-child-link-color: $brand-color;
+$btn-primary-color: $brand-color;
+$link-color: $brand-color;
+
+// Cette ligne applique tes changements au thème de ton école
+@import "just-the-docs";
