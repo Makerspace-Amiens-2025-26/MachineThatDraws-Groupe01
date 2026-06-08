@@ -35,8 +35,6 @@ Ce projet s'inscrit dans notre parcours scolaire, nous sommes un groupe de 5 ét
 
 ## Vidéo
 
-(à cause du trop gros volume de notre vidéo, nous ne pouvons pas l'afficher sur ce site)
-
 <video src="images/vidéo.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
