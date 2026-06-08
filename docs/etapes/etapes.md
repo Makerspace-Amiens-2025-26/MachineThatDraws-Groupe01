@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Etapes de fabrication
+title:
 nav_order: 6
 ---
 
