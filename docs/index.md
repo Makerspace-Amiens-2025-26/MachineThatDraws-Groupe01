@@ -5,21 +5,6 @@ title: Accueil
 permalink: /
 ---
 
-<style>
-  /* Change la couleur mauve du menu par du bleu canard */
-  .nav-list-item.active > .nav-list-link {
-    color: #b31e00 !important;
-  }
-  /* Change la couleur mauve des boutons */
-  .btn-primary {
-    background-color: #b31e00 !important;
-    border-color: #b31e00 !important;
-  }
-  /* Change la couleur des liens cliquables */
-  a {
-    color: #b31e00 !important;
-  }
-</style>
 
 
 # Projet Machine that draws
@@ -52,6 +37,6 @@ Ce projet s'inscrit dans notre parcours scolaire, nous sommes un groupe de 5 ét
 
 (à cause du trop gros volume de notre vidéo, nous ne pouvons pas l'afficher sur ce site)
 
-<video src="images/vidéo_présentation.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/vidéo.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
